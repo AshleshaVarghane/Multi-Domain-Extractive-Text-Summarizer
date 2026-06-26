@@ -15,7 +15,7 @@ A hybrid NLP-powered text summarization system that extracts the most important 
 | **Program** | B.Tech – Computer Science & Engineering (Data Science) |
 | **Semester** | VI Semester |
 | **Authors** | Ashlesha Varghane 
-| **GitHub** | [AshleshaVarghane/Multi-Domain-Extractive-Text-Summarizer]((https://github.com/AshleshaVarghane/Multi-Domain-Extractive-Text-Summarizer) |
+| **GitHub** | https://github.com/AshleshaVarghane/Multi-Domain-Extractive-Text-Summarizer
 
 ---
 
