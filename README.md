@@ -14,7 +14,7 @@ A hybrid NLP-powered text summarization system that extracts the most important 
 | **Institution** | Shri Ramdeobaba College of Engineering & Management, Nagpur |
 | **Program** | B.Tech – Computer Science & Engineering (Data Science) |
 | **Semester** | VI Semester |
-| **Authors** | Samiksha Shete (C2-28), Ashlesha Varghane (C4-69) |
+| **Authors** | Ashlesha Varghane 
 | **GitHub** | [samshete05/Multi-domain-Extractive-Summarizer](https://github.com/samshete05/Multi-domain-Extractive-Summarizer) |
 
 ---
