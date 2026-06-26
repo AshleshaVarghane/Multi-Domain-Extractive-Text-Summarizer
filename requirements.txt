@@ -1,0 +1,9 @@
+nltk
+networkx
+numpy
+pandas
+scikit-learn
+rank_bm25
+streamlit
+pyarrow
+openpyxl
